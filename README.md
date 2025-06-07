@@ -17,6 +17,10 @@ Design a basic interactive sales dashboard using Tableau to visualize:
 **Sample Superstore Dataset**
 - Columns Used: `Order Date`, `Region`, `Category`, `Sales`, `Profit`
 
+
+## Includes
+Screenshot 2025-06-07 193940.png
+Superstore_Sales_Overview_Presentation(Task 8)
 ---
 
 ## 🛠 Tools & Techniques
